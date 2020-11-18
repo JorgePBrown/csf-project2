@@ -1,0 +1,40 @@
+FILE SYSTEM INFORMATION
+--------------------------------------------
+File System Type: FAT32
+
+OEM Name: mkfs.fat
+Volume ID: 0xe6b215d1
+Volume Label (Boot Sector): NO NAME    
+Volume Label (Root Directory):
+File System Type Label: FAT32   
+Next Free Sector (FS Info): 2080
+Free Sector Count (FS Info): 1046488
+
+Sectors before file system: 2048
+
+File System Layout (in sectors)
+Total Range: 0 - 1048575
+* Reserved: 0 - 31
+** Boot Sector: 0
+** FS Info Sector: 1
+** Backup Boot Sector: 6
+* FAT 0: 32 - 1055
+* FAT 1: 1056 - 2079
+* Data Area: 2080 - 1048575
+** Cluster Area: 2080 - 1048575
+*** Root Directory: 2080 - 2087
+
+METADATA INFORMATION
+--------------------------------------------
+Range: 2 - 16743942
+Root Directory: 2
+
+CONTENT INFORMATION
+--------------------------------------------
+Sector Size: 512
+Cluster Size: 4096
+Total Cluster Range: 2 - 130813
+
+FAT CONTENTS (in sectors)
+--------------------------------------------
+2080-2087 (8) -> EOF

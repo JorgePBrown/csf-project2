@@ -1,0 +1,4 @@
+v/v 16743939:	$MBR
+v/v 16743940:	$FAT1
+v/v 16743941:	$FAT2
+V/V 16743942:	$OrphanFiles

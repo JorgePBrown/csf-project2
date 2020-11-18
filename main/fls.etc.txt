@@ -1,0 +1,294 @@
+d/d 393242:	PackageKit
+d/d 393243:	UPower
+d/d 393244:	X11
+d/d 393245:	acpi
+d/d 393246:	alsa
+d/d 393247:	alternatives
+d/d 393248:	apm
+d/d 393249:	apparmor
+d/d 393250:	apparmor.d
+d/d 393251:	apport
+d/d 393252:	apt
+d/d 393253:	avahi
+d/d 393254:	bash_completion.d
+d/d 393255:	binfmt.d
+d/d 393256:	bluetooth
+d/d 393257:	brltty
+d/d 393258:	ca-certificates
+d/d 393259:	calendar
+d/d 393260:	chatscripts
+d/d * 393261(realloc):	cifs-utils
+d/d 393262:	console-setup
+d/d 393263:	cracklib
+d/d 393264:	cron.d
+d/d 393265:	cron.daily
+d/d 393266:	cron.hourly
+d/d 393267:	cron.monthly
+d/d 393268:	cron.weekly
+d/r * 393269(realloc):	cryptsetup-initramfs
+d/d 393270:	cups
+d/d 393271:	cupshelpers
+d/d 393272:	dbus-1
+d/d 393273:	dconf
+d/d 393274:	default
+d/d 393275:	depmod.d
+d/d 393276:	dhcp
+d/d 393277:	dictionaries-common
+d/d 393278:	dpkg
+d/d 393279:	emacs
+d/d 393280:	environment.d
+d/d 393281:	firefox
+d/d 393282:	fonts
+d/d 393283:	fwupd
+d/d 393284:	gdb
+d/d 393285:	gdm3
+d/d 393286:	geoclue
+d/d 393287:	ghostscript
+d/d 393288:	glvnd
+d/d 393289:	gnome
+d/d 393290:	groff
+d/d 393291:	grub.d
+d/d 393292:	gss
+d/d 393293:	gtk-2.0
+d/d 393294:	gtk-3.0
+d/d 393295:	hp
+d/d 393296:	ifplugd
+d/d 393297:	init
+d/d 393298:	init.d
+d/d 393299:	initramfs-tools
+d/d 393300:	insserv.conf.d
+d/d 393301:	iproute2
+d/d 393302:	kernel
+d/d 393303:	ld.so.conf.d
+d/d 393304:	ldap
+d/d 393305:	libblockdev
+d/d 393306:	libnl-3
+d/d 393307:	libpaper.d
+d/r * 393308(realloc):	libreoffice
+d/d 393309:	logcheck
+d/d 393310:	logrotate.d
+d/r * 393311(realloc):	lvm
+d/d 393312:	modprobe.d
+d/d 393313:	modules-load.d
+d/d 393314:	mysql
+d/d 393315:	netplan
+d/d 393316:	network
+d/d 393317:	networkd-dispatcher
+d/d 393318:	newt
+d/d 393319:	openvpn
+d/d 393320:	opt
+d/d 393321:	pam.d
+d/d 393322:	pcmcia
+d/d 393323:	perl
+d/d 393324:	pki
+d/d 393325:	pm
+d/d 393326:	polkit-1
+d/d 393327:	ppp
+d/d 393328:	profile.d
+d/d 393329:	pulse
+d/d 393330:	python3
+d/d 393331:	python3.8
+d/d 393332:	rc0.d
+d/d 393333:	rc1.d
+d/d 393334:	rc2.d
+d/d 393335:	rc3.d
+d/d 393336:	rc4.d
+d/d 393337:	rc5.d
+d/d 393338:	rc6.d
+d/d 393339:	rcS.d
+d/r * 393340(realloc):	request-key.d
+d/d 393341:	rsyslog.d
+d/d 393342:	sane.d
+d/d 393343:	security
+d/d 393344:	selinux
+d/d 393345:	sensors.d
+d/d 393346:	sgml
+d/d 393347:	skel
+d/d 393348:	snmp
+d/d 393349:	speech-dispatcher
+d/d 393350:	ssh
+d/d 393351:	ssl
+d/d 393352:	sudoers.d
+d/d 393353:	sysctl.d
+d/d 393354:	systemd
+d/d 393355:	terminfo
+d/d 393356:	thermald
+d/r * 393357(realloc):	thunderbird
+d/d 393358:	tmpfiles.d
+d/d 393359:	ubuntu-advantage
+d/d 393360:	udev
+d/d 393361:	udisks2
+d/d 393362:	ufw
+d/d 393363:	update-manager
+d/d 393364:	update-motd.d
+d/d 393365:	update-notifier
+d/d 393366:	usb_modeswitch.d
+d/d 393367:	vim
+d/d 393368:	vulkan
+d/d 393369:	wpa_supplicant
+d/d 393370:	xdg
+d/d 393371:	xml
+d/r * 393372(realloc):	zfs
+r/r 393373:	.pwd.lock
+r/r 393374:	adduser.conf
+r/r 393375:	anacrontab
+r/r 393376:	apg.conf
+r/r 393377:	appstream.conf
+r/r 393378:	bash.bashrc
+r/r 393379:	bash_completion
+r/r 393380:	bindresvport.blacklist
+r/r 393381:	brlapi.key
+r/r 393382:	brltty.conf
+r/r * 393383(realloc):	ca-certificates.conf
+r/r * 393384(realloc):	ca-certificates.conf.dpkg-old
+r/r 393385:	crontab
+r/r 393386:	debconf.conf
+r/r 393387:	debian_version
+r/r 393388:	deluser.conf
+r/r 393389:	e2scrub.conf
+r/r 393390:	environment
+r/r 393391:	ethertypes
+r/r 393392:	fprintd.conf
+r/r 393393:	fuse.conf
+r/r 393394:	gai.conf
+r/r 393395:	gamemode.ini
+r/r * 393396(realloc):	group
+r/r * 393397(realloc):	gshadow
+r/r 393398:	hdparm.conf
+r/r 393399:	host.conf
+r/r 393400:	hostid
+r/r 393401:	hostname
+r/r 393402:	hosts
+r/r 393403:	hosts.allow
+r/r 393404:	hosts.deny
+r/r 393405:	inputrc
+r/r 393406:	issue
+r/r 393407:	issue.net
+r/r * 393408(realloc):	kernel-img.conf
+r/r 393409:	kerneloops.conf
+r/r * 393410(realloc):	ld.so.cache
+r/r 393411:	ld.so.conf
+r/r 393412:	legal
+r/r 393413:	libao.conf
+r/r 393414:	libaudit.conf
+r/r 393415:	locale.alias
+r/r * 393416(realloc):	locale.gen
+l/r * 393417:	localtime
+r/r 393418:	login.defs
+r/r 393419:	logrotate.conf
+r/r 393420:	lsb-release
+r/r 393421:	ltrace.conf
+r/r 393422:	machine-id
+r/r 393423:	magic
+r/r 393424:	magic.mime
+r/r * 393425(realloc):	mailcap
+r/r 393426:	mailcap.order
+r/r 393427:	manpath.config
+r/r 393428:	mime.types
+r/r 393429:	mke2fs.conf
+r/r 393430:	modules
+l/l 393431:	mtab
+r/r 393432:	mtools.conf
+r/r 393433:	nanorc
+r/r 393434:	networks
+r/r 393435:	nsswitch.conf
+l/l 393436:	os-release
+r/r 393437:	pam.conf
+r/r * 393438(realloc):	papersize
+r/d * 393439(realloc):	passwd
+r/r 393440:	pnm2ppa.conf
+r/r 393441:	popularity-contest.conf
+r/r 393442:	profile
+r/r 393443:	protocols
+l/l 393444:	resolv.conf
+l/l 393445:	rmt
+r/r 393446:	rpc
+r/r 393447:	rsyslog.conf
+r/r 393448:	rygel.conf
+r/r 393449:	sensors3.conf
+r/r 393450:	services
+r/d * 393451(realloc):	shadow
+r/r 393452:	shells
+r/d * 393453(realloc):	subgid
+r/r * 393454(realloc):	subuid
+r/r 393455:	sudoers
+r/r 393456:	sysctl.conf
+r/r 393457:	timezone
+r/r 393458:	ucf.conf
+r/r 393459:	usb_modeswitch.conf
+l/l 393460:	vtrgb
+r/r 393461:	wgetrc
+r/r 393462:	xattr.conf
+r/r 393218:	fstab
+d/d 450780:	vmware-tools
+r/r 401177:	ca-certificates.conf
+r/r 393383:	ca-certificates.conf.dpkg-old
+r/r 448412:	group
+r/r 448413:	gshadow
+r/r 393918:	kernel-img.conf
+r/r 401109:	mailcap
+r/r 395686:	papersize
+r/r 438204:	shadow
+r/r 441651:	subuid
+r/r 393463:	zsh_command_not_found
+r/r 393397:	gshadow-
+r/r 438205:	passwd-
+r/r 438203:	shadow-
+r/r * 401116(realloc):	ld.so.cache~
+r/r * 438203(realloc):	.#shadow4PDNSr
+d/- * 0:	vulkan
+r/- * 0:	adduser.conf
+r/- * 0:	anacrontab
+r/- * 0:	appstream.conf
+r/- * 0:	bash.bashrc
+r/- * 0:	bash_completion
+r/- * 0:	bindresvport.blacklist
+r/- * 0:	crontab
+r/- * 0:	debconf.conf
+r/- * 0:	debian_version
+r/- * 0:	deluser.conf
+r/- * 0:	fprintd.conf
+r/- * 0:	gamemode.ini
+r/- * 0:	hosts.allow
+r/- * 0:	inputrc
+r/- * 0:	issue
+r/- * 0:	issue.net
+r/- * 0:	ld.so.cache
+r/- * 0:	libaudit.conf
+r/- * 0:	locale.gen
+l/- * 0:	localtime
+r/- * 0:	login.defs
+r/- * 0:	logrotate.conf
+r/- * 0:	lsb-release
+r/- * 0:	ltrace.conf
+r/- * 0:	manpath.config
+r/- * 0:	mime.types
+l/- * 0:	os-release
+r/- * 0:	passwd
+r/- * 0:	pnm2ppa.conf
+r/- * 0:	popularity-contest.conf
+r/- * 0:	profile
+r/- * 0:	sensors3.conf
+r/- * 0:	services
+r/- * 0:	subgid
+r/- * 0:	sysctl.conf
+r/- * 0:	ucf.conf
+l/- * 0:	vtrgb
+r/- * 0:	wgetrc
+r/- * 0:	xattr.conf
+r/r 394530:	locale.gen
+r/r 448519:	passwd
+d/d 10477:	thunderbird
+r/r * 401109(realloc):	mailcap.new
+d/d 393241:	NetworkManager
+r/d * 448399:	shadow.lock
+l/l 401217:	localtime
+r/r 441652:	subgid
+r/r 401116:	ld.so.cache
+r/r * 448402(realloc):	group.lock
+r/r * 401177(realloc):	ca-certificates.conf.dpkg-new
+r/r 448309:	group-
+r/r * 438205(realloc):	.#passwd5iDp4s
+r/r * 441649(realloc):	shadow.lock
+r/r 441646:	subuid-
+r/r 393454:	subgid-

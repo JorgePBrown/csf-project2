@@ -1,0 +1,13 @@
+DOS Partition Table
+Offset Sector: 0
+Units are in 512-byte sectors
+
+      Slot      Start        End          Length       Description
+000:  Meta      0000000000   0000000000   0000000001   Primary Table (#0)
+001:  -------   0000000000   0000002047   0000002048   Unallocated
+002:  000:000   0000002048   0006387711   0006385664   Linux (0x83)
+003:  -------   0006387712   0006389759   0000002048   Unallocated
+004:  Meta      0006389758   0008386559   0001996802   DOS Extended (0x05)
+005:  Meta      0006389758   0006389758   0000000001   Extended Table (#1)
+006:  001:000   0006389760   0008386559   0001996800   Linux Swap / Solaris x86 (0x82)
+007:  -------   0008386560   0008388607   0000002048   Unallocated
