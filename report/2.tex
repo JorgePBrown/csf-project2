@@ -1,0 +1,21 @@
+We were able to find traces of the files in Rick's computers.
+
+We first started by looking at both the volumes partition information using the \textit{mmls} tool.
+
+\lstset{breaklines=true,basicstyle=\ttfamily\scriptsize,linewidth=12cm}
+
+\lstinputlisting[caption=Output of mmls rick\_disk.dd]{../main/mmls.txt}
+
+\lstinputlisting[caption=Output of mmls backup\_disk.dd]{../backup/mmls.txt}
+
+From which we can conclude that are two filesystems in place in the first volume at the offsets 2048 and 1052672 and two filesystem in the second volume at offset 2048 and 6389760.
+
+We started by analyzing the first volume at offset 1052672.
+
+\lstinputlisting[caption=Output of fls -o 1052672 rick\_disk.dd]{../main/fls.1052672.txt}
+
+
+
+
+
+We started by looking up the \textit{.bash\_history}
